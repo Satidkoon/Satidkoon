@@ -1,4 +1,10 @@
 ### Hello I'am Satidkoon,Welcome to my Github 👋
+
+I graduated with a <h4>high vocational certificate from the Faculty of Architecture</h4> and I graduated with a <h4>bachelor's degree from the Faculty of Construction Management</h4>.
+
+I have experience with programs for drawing such as<h4> AutoCAD, Sketch UP, MicroStation : 7 years</h4>
+
+
 - 🔭 I’m currently working on <b><u>AutoCad, Sketch Up, Microstation</b></u>
 
 - 🌱 I’m currently learning <br> 
@@ -13,24 +19,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 
 
+I didn't graduate from a programmer-related faculty. but i have a passion and love coding
 
-<!--
-**Satidkoon/Satidkoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(And I like to play computer games also.)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) , ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) , ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) , ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
+I like to challenge myself and learning Coding was another thing that I wanted to master.
 
 
+<a href="https://www.picz.in.th/image/yYHAzV"><img src="https://sv1.picz.in.th/images/2023/04/22/yYHAzV.md.jpg" alt="yYHAzV.jpg" border="0" /></a>
 
 
